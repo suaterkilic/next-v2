@@ -1,6 +1,5 @@
 import React, { Fragment } from "react";
 import Layout from "../components/layout";
-import Head from "next/head";
 import SearchIcon from "../components/header/SearchIcon";
 import ProductDetail from "../components/product/ProductDetail";
 import ProductBanner from "../components/product/ProductBanner";
@@ -9,20 +8,10 @@ import ProductInterview from "../components/product/ProductInterview";
 const Product = () => {
   return (
     <Fragment>
-      <Head>
-        <link href="https://fonts.gstatic.com/" crossOrigin rel="preconnect" />
-        <link
-          rel="stylesheet"
-          id="barberry_google_fonts-css"
-          href="http://fonts.googleapis.com/css?family=Josefin+Sans%3A300%2C400%2C700%7CJosefin+Sans%3A600&amp;subset=latin-ext"
-          type="text/css"
-          media="all"
-        />
-      </Head>
+
       <div className="barberry-has-cart-fixed product-template-default single single-product postid-3986 wp-embed-responsive theme-barberry woocommerce woocommerce-page woocommerce-no-js wpb-js-composer js-comp-ver-6.3.0 vc_responsive no-offcanvas-animation header-has-title header-has-overlap catalog-ajax-filter posts-has-parallax has-wishlist bb_classic_notif tag-cloud-default">
         <SearchIcon />
         <div id="bb-container" className="bb-container">
-          
           
           <Layout>
             <div className="offcanvas_container">

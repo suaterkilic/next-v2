@@ -24,7 +24,7 @@ const Categories = () => {
                                 className="category-image"
                               >
                                 <img
-                                  src="http://bafkoriginal.com/theme/wp-content/themes/barberry/images/placeholder.jpg"
+                                  src="/images/category/1.jpg"
                                   alt="Erkek Eşofmanlari"
                                   width={500}
                                   height={700}
@@ -49,7 +49,7 @@ const Categories = () => {
                                 className="category-image"
                               >
                                 <img
-                                  src="http://bafkoriginal.com/theme/wp-content/themes/barberry/images/placeholder.jpg"
+                                  src="/images/category/1.jpg"
                                   alt="Erkek Şortları"
                                   width={500}
                                   height={700}

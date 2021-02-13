@@ -1,5 +1,4 @@
 import React, { Fragment } from "react";
-import Head from "next/head";
 import Layout from "../components/layout";
 import SearchIcon from "../components/header/SearchIcon";
 import Categories from "../components/home/categories/Categories";
@@ -10,23 +9,6 @@ import SectionBanner from "../components/home/banner/SectionBanner";
 export default function Home() {
   return (
     <Fragment>
-      <Head>
-        <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-        <meta charset="UTF-8" />
-        <meta
-          name="viewport"
-          content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
-        />
-        <title>BAFK Original</title>
-        <link href="https://fonts.gstatic.com/" crossOrigin rel="preconnect" />
-        <link
-          rel="stylesheet"
-          id="barberry_google_fonts-css"
-          href="http://fonts.googleapis.com/css?family=Josefin+Sans%3A300%2C400%2C700%7CJosefin+Sans%3A600&amp;subset=latin-ext"
-          type="text/css"
-          media="all"
-        />
-      </Head>
 
       <div className="home page-template-default page page-id-3488 page-parent wp-embed-responsive  vc_responsive no-offcanvas-animation header-has-no-title header-has-overlap posts-has-parallax bb_classic_notif tag-cloud-default">
         <SearchIcon />

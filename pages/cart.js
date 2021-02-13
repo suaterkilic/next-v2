@@ -1,29 +1,10 @@
 import React, { Fragment } from "react";
 import Layout from "../components/layout";
 import SearchIcon from "../components/header/SearchIcon";
-import Head from "next/head";
-import Link from "next/link";
 
 const Cart = () => {
   return (
     <Fragment>
-      <Head>
-        <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-        <meta charset="UTF-8" />
-        <meta
-          name="viewport"
-          content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
-        />
-        <title>BAFK Original</title>
-        <link href="https://fonts.gstatic.com/" crossOrigin rel="preconnect" />
-        <link
-          rel="stylesheet"
-          id="barberry_google_fonts-css"
-          href="http://fonts.googleapis.com/css?family=Josefin+Sans%3A300%2C400%2C700%7CJosefin+Sans%3A600&amp;subset=latin-ext"
-          type="text/css"
-          media="all"
-        />
-      </Head>
       <div className="page-template-default page page-id-1706 wp-embed-responsive theme-barberry woocommerce-cart woocommerce-page woocommerce-js wpb-js-composer js-comp-ver-6.3.0 vc_responsive load-transition no-offcanvas-animation header-has-title header-has-overlap catalog-ajax-filter posts-has-parallax bb_classic_notif tag-cloud-default">
         <SearchIcon />
 

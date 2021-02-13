@@ -40,7 +40,7 @@ const ProductInterview = () => {
                                     <img
                                       width={500}
                                       height={700}
-                                      src="http://bafkoriginal.com/theme/wp-content/uploads/2020/09/COREPLUSPOLYTRACKSUIT-GREYMARLCHARCOALMARL_2122_1_2048x2048-500x700.jpg"
+                                      src="/images/product/explain.jpg"
                                       alt=""
                                       loading="lazy"
                                     />
@@ -145,7 +145,7 @@ const ProductInterview = () => {
                                     <img
                                       width={500}
                                       height={700}
-                                      src="http://bafkoriginal.com/theme/wp-content/uploads/2020/09/gym-king-basis-tracksuit-1black__40_2_2048x2048-500x700.jpg"
+                                      src="/images/product/explain.jpg"
                                       alt=""
                                       loading="lazy"
                                     />
@@ -267,7 +267,7 @@ const ProductInterview = () => {
                                     <img
                                       width={500}
                                       height={700}
-                                      src="http://bafkoriginal.com/theme/wp-content/uploads/2020/09/COREPLUSPOLYTRACKSUIT-BLUEGREY_2042_2048x2048-500x700.jpg"
+                                      src="/images/product/explain.jpg"
                                       alt=""
                                       loading="lazy"
                                     />

@@ -77,13 +77,13 @@ img.wp-smiley, img.emoji {
 }
 /*Önemli*/
 .vc_custom_1545309677913{
-    background: #eeeeee url(https://barberry.temashdesign.com/furnituredemo/wp-content/uploads/sites/3/2018/12/home-bg-01.jpg?id=3717) !important;
+    background: #eeeeee url(/images/home/1.jpg) !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
 .vc_custom_1545309688400{
-    background: #e9e1d6 url(https://barberry.temashdesign.com/furnituredemo/wp-content/uploads/sites/3/2018/12/home-bg-02.jpg?id=3716) !important;
+    background: #e9e1d6 url(/images/home/2.jpg) !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
@@ -861,7 +861,7 @@ button[type="submit"],button.submit,button.btn--primary,button.button,.button[ty
 
 
 .vc_custom_1540745001948{
-background-image: url(https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__47_2_2048x2048.jpg) !important;
+/*background-image: url(https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__47_2_2048x2048.jpg) !important;*/
 background-position: center !important;
 background-repeat: no-repeat !important;
 background-size: cover !important;

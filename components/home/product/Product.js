@@ -23,7 +23,7 @@ const Product = () => {
                             <img
                               width={500}
                               height={700}
-                              src="http://bafkoriginal.com/theme/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__48_2_2048x2048-500x700.jpg"
+                              src="/images/product/cover.jpg"
                               className
                               alt=""
                               loading="lazy"

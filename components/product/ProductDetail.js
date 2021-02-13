@@ -64,7 +64,7 @@ const ProductDetail = () => {
                             }}
                           >
                             <div
-                              data-thumb="https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__48_2_2048x2048-200x200.jpg"
+                              data-thumb="/images/product/s1.jpg"
                               className="woocommerce-product-gallery__image product-gallery-cell is-selected"
                               style={{
                                 position: "absolute",
@@ -75,21 +75,21 @@ const ProductDetail = () => {
                               <img
                                 width={1251}
                                 height={1732}
-                                src="https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__48_2_2048x2048.jpg"
+                                src="/images/product/detail.jpg"
                                 className="single-product-img wp-post-image flickity-lazyloaded"
                                 alt=""
                                 loading="lazy"
                                 title="gym-king-basis-tracksuit-grey-marl__48_2_2048x2048"
                                 data-caption
-                                data-src="https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__48_2_2048x2048.jpg"
-                                data-large_image="https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__48_2_2048x2048.jpg"
+                                data-src="/images/product/detail.jpg"
+                                data-large_image="/images/product/detail.jpg"
                                 data-large_image_width={1479}
                                 data-large_image_height={2048}
-                                srcSet="https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__48_2_2048x2048-1251x1732.jpg 1251w, https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__48_2_2048x2048-217x300.jpg 217w, https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__48_2_2048x2048-740x1024.jpg 740w, https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__48_2_2048x2048-768x1063.jpg 768w, https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__48_2_2048x2048-1109x1536.jpg 1109w, https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__48_2_2048x2048-578x800.jpg 578w, https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__48_2_2048x2048-722x1000.jpg 722w, https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__48_2_2048x2048.jpg 1479w"
+                                srcSet="/images/product/detail.jpg 722w, /images/product/detail.jpg 1479w"
                                 sizes="(max-width: 1251px) 100vw, 1251px"
                               />
                               <img
-                                src="https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__48_2_2048x2048.jpg"
+                                src="/images/product/detail.jpg"
                                 className="zoomImg"
                                 style={{
                                   position: "absolute",
@@ -105,7 +105,7 @@ const ProductDetail = () => {
                               />
                             </div>
                             <div
-                              data-thumb="https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__47_2_2048x2048-200x200.jpg"
+                              data-thumb="/images/product/s2.jpg"
                               className="woocommerce-product-gallery__image product-gallery-cell is-next"
                               aria-hidden="true"
                               style={{
@@ -117,22 +117,22 @@ const ProductDetail = () => {
                               <img
                                 width={1251}
                                 height={1732}
-                                src="https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__47_2_2048x2048-1251x1732.jpg"
+                                src="/images/product/explain.jpg"
                                 className="single-product-img"
                                 alt=""
                                 loading="lazy"
                                 title="gym-king-basis-tracksuit-grey-marl__47_2_2048x2048"
                                 data-caption
-                                data-src="https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__47_2_2048x2048.jpg"
-                                data-large_image="https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__47_2_2048x2048.jpg"
-                                data-flickity-lazyload="https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__47_2_2048x2048.jpg"
+                                data-src="/images/product/explain.jpg"
+                                data-large_image="/images/product/explain.jpg"
+                                data-flickity-lazyload="/images/product/explain.jpg"
                                 data-large_image_width={1479}
                                 data-large_image_height={2048}
-                                srcSet="https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__47_2_2048x2048-1251x1732.jpg 1251w, https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__47_2_2048x2048-217x300.jpg 217w, https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__47_2_2048x2048-740x1024.jpg 740w, https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__47_2_2048x2048-768x1063.jpg 768w, https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__47_2_2048x2048-1109x1536.jpg 1109w, https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__47_2_2048x2048-578x800.jpg 578w, https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__47_2_2048x2048-722x1000.jpg 722w, https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__47_2_2048x2048.jpg 1479w"
+                                srcSet="/images/product/explain.jpg 722w, /images/product/explain.jpg 1479w"
                                 sizes="(max-width: 1251px) 100vw, 1251px"
                               />
                               <img
-                                src="https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__47_2_2048x2048.jpg"
+                                src="/images/product/explain.jpg"
                                 className="zoomImg"
                                 style={{
                                   position: "absolute",
@@ -148,7 +148,7 @@ const ProductDetail = () => {
                               />
                             </div>
                             <div
-                              data-thumb="https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__43_2_2048x2048-200x200.jpg"
+                              data-thumb="/images/product/s3.jpg"
                               className="woocommerce-product-gallery__image product-gallery-cell"
                               aria-hidden="true"
                               style={{
@@ -160,7 +160,7 @@ const ProductDetail = () => {
                               <img
                                 width={1251}
                                 height={1732}
-                                src="https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__43_2_2048x2048-1251x1732.jpg"
+                                src="/images/product/explain.jpg"
                                 className="single-product-img"
                                 alt=""
                                 loading="lazy"
@@ -171,7 +171,7 @@ const ProductDetail = () => {
                                 data-flickity-lazyload="https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__43_2_2048x2048.jpg"
                                 data-large_image_width={1479}
                                 data-large_image_height={2048}
-                                srcSet="https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__43_2_2048x2048-1251x1732.jpg 1251w, https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__43_2_2048x2048-217x300.jpg 217w, https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__43_2_2048x2048-740x1024.jpg 740w, https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__43_2_2048x2048-768x1063.jpg 768w, https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__43_2_2048x2048-1109x1536.jpg 1109w, https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__43_2_2048x2048-578x800.jpg 578w, https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__43_2_2048x2048-722x1000.jpg 722w, https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__43_2_2048x2048.jpg 1479w"
+                                srcSet="/images/product/explain.jpg 1251w, /images/product/explain.jpg 1479w"
                                 sizes="(max-width: 1251px) 100vw, 1251px"
                               />
                               <img
@@ -191,7 +191,7 @@ const ProductDetail = () => {
                               />
                             </div>
                             <div
-                              data-thumb="https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__45_2-200x200.jpg"
+                              data-thumb="/images/product/s4.jpg"
                               className="woocommerce-product-gallery__image product-gallery-cell is-previous"
                               aria-hidden="true"
                               style={{
@@ -299,28 +299,28 @@ const ProductDetail = () => {
                           <img
                             alt=""
                             title="gym-king-basis-tracksuit-grey-marl__48_2_2048x2048"
-                            src="https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__48_2_2048x2048-200x200.jpg"
+                            src="/images/product/s1.jpg"
                           />
                         </div>
                         <div className="woocommerce-product-thumb__image">
                           <img
                             alt=""
                             title="gym-king-basis-tracksuit-grey-marl__47_2_2048x2048"
-                            src="https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__47_2_2048x2048-200x200.jpg"
+                            src="/images/product/s2.jpg"
                           />
                         </div>
                         <div className="woocommerce-product-thumb__image">
                           <img
                             alt=""
                             title="gym-king-basis-tracksuit-grey-marl__43_2_2048x2048"
-                            src="https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__43_2_2048x2048-200x200.jpg"
+                            src="/images/product/s3.jpg"
                           />
                         </div>
                         <div className="woocommerce-product-thumb__image">
                           <img
                             alt=""
                             title="gym-king-basis-tracksuit-grey-marl__45_2"
-                            src="https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__45_2-200x200.jpg"
+                            src="/images/product/s4.jpg"
                           />
                         </div>
                       </div>
@@ -377,7 +377,7 @@ const ProductDetail = () => {
                               <img
                                 alt=""
                                 title="gym-king-basis-tracksuit-grey-marl__48_2_2048x2048"
-                                src="https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__48_2_2048x2048-200x200.jpg"
+                                src="/images/product/s1.jpg"
                               />
                             </div>
                             <div
@@ -391,7 +391,7 @@ const ProductDetail = () => {
                               <img
                                 alt=""
                                 title="gym-king-basis-tracksuit-grey-marl__47_2_2048x2048"
-                                src="https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__47_2_2048x2048-200x200.jpg"
+                                src="/images/product/s2.jpg"
                               />
                             </div>
                             <div
@@ -405,7 +405,7 @@ const ProductDetail = () => {
                               <img
                                 alt=""
                                 title="gym-king-basis-tracksuit-grey-marl__43_2_2048x2048"
-                                src="https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__43_2_2048x2048-200x200.jpg"
+                                src="/images/product/s3.jpg"
                               />
                             </div>
                             <div
@@ -419,7 +419,7 @@ const ProductDetail = () => {
                               <img
                                 alt=""
                                 title="gym-king-basis-tracksuit-grey-marl__45_2"
-                                src="https://bafk.com.tr/wp-content/uploads/2020/09/gym-king-basis-tracksuit-grey-marl__45_2-200x200.jpg"
+                                src="/images/product/s4.jpg"
                               />
                             </div>
                           </div>

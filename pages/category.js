@@ -1,6 +1,5 @@
 import React, { Fragment } from "react";
 import Layout from "../components/layout";
-import Head from "next/head";
 import Header from "../components/categories/Header";
 import SearchIcon from "../components/header/SearchIcon";
 import Footer from "../components/footer/Footer";
@@ -11,25 +10,6 @@ import Items from '../components/categories/Items';
 const Category = () => {
   return (
     <Fragment>
-      <Head>
-        <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-        <meta charset="UTF-8" />
-        <meta
-          name="viewport"
-          content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
-        />
-        <title>BAFK Original</title>
-        <link href="https://fonts.gstatic.com/" crossOrigin rel="preconnect" />
-        <link
-          rel="stylesheet"
-          id="barberry_google_fonts-css"
-          href="http://fonts.googleapis.com/css?family=Josefin+Sans%3A300%2C400%2C700%7CJosefin+Sans%3A600&amp;subset=latin-ext"
-          type="text/css"
-          media="all"
-        />
-        <title>Kategoriler | BAFK</title>
-      </Head>
-
       <div className="archive tax-product_cat term-erkek-esofmanlari term-148 wp-embed-responsive theme-barberry woocommerce woocommerce-page woocommerce-no-js wpb-js-composer js-comp-ver-6.3.0 vc_responsive no-offcanvas-animation woocommerce-shop header-has-title header-has-overlap catalog-ajax-filter shop-pagination-infinite_scroll blog-pagination-load_more_button posts-has-parallax bb_classic_notif tag-cloud-default">
         <SearchIcon />
         <div id="bb-container" className="bb-container">

@@ -202,27 +202,27 @@ const Footer = () => {
                 <div className="cell large-4 footer-payment">
                   <div className="footer-credit-card-icons">
                     <img
-                      src="http://bafkoriginal.com/theme/wp-content/uploads/2018/12/payment-icon-visa.png"
+                      src="/icons/payment-icon-visa.png"
                       alt="Visa"
                       title="Visa"
                     />
                     <img
-                      src="http://bafkoriginal.com/theme/wp-content/uploads/2018/12/payment-icon-mastercard.png"
+                      src="/icons/payment-icon-mastercard.png"
                       alt="MasterCard"
                       title="MasterCard"
                     />
                     <img
-                      src="http://bafkoriginal.com/theme/wp-content/uploads/2018/12/payment-icon-amex.png"
+                      src="/icons/payment-icon-amex.png"
                       alt="Amex"
                       title="Amex"
                     />
                     <img
-                      src="http://bafkoriginal.com/theme/wp-content/uploads/2018/12/payment-icon-paypal.png"
+                      src="/icons/payment-icon-paypal.png"
                       alt="PayPal"
                       title="PayPal"
                     />
                     <img
-                      src="http://bafkoriginal.com/theme/wp-content/uploads/2018/12/payment-icon-amazon.png"
+                      src="/icons/payment-icon-amazon.png"
                       alt="Amazon"
                       title="Amazon"
                     />
